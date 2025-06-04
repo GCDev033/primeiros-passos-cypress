@@ -8,7 +8,7 @@ class MyInfoPage{
             genericNameField: ".oxd-input--active",
             dateCloseButton: ".oxd-form > :nth-child(3) > :nth-child(2)",
             genericCombobox: ".oxd-select-text--arrow",
-            secondCombobox: ".oxd-select-dropdown > :nth-child(8)",
+            secondCombobox: ":nth-child(1) > .oxd-form > .oxd-form-actions > .oxd-button",
             thirdCombobox: ".oxd-select-dropdown > :nth-child(3)",
             submitButton: ".orangehrm-left-space"
         }
